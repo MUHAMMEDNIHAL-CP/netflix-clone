@@ -2,6 +2,7 @@
   "name": "neflix",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://muhammednihal-cp.github.io/netflix-clone/",
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
